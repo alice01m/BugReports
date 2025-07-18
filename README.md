@@ -5,29 +5,29 @@ The following bug report samples were created as part of hands-on testing projec
 ---
 
 **Summary:**
-Menu bar not responsive on product page
+Responsive issue: Menu bar layout overlaps on small viewports (Product Page) 
 
 **Priority & Severity:**
 P3 - Low
 
 **Description:**
-On the product page the menu bar fails to display properly when viewed on mobile devices or in responsive mode. The layout overlaps and it fails to appear entirely.
+On the Product Page, the menu bar fails to display correctly on mobile devices and in responsive mode. The layout overlaps and some menu elements do not appear properly.
 
 **Steps to reproduce:**
 
 1. Go to Product Page https://www.demoblaze.com/prod.html?idp_=1 
 
-2. Resize the browser window to a mobile or tablet size
+2. Resize the browser window to a mobile or tablet viewport size
 
 **Expected result:**
-The menu bar should adjust its layout to fit the screen size properly.
+The menu bar should responsively adjust to the screen size, displaying all elements clearly without overlapping.
 
 **Actual result:**
-The menu bar is overlapping or cut off when viewed on smaller devices (mobile/tablet).
+The menu bar overlaps and some parts are cut off or missing on smaller screen sizes (mobile/tablet). 
 
 **Attachments:**
 
-![Menu bar not responsive on product page](./screenshots/Menu-Bar-Not-Responsive-Bug-Screenshot.png)
+![Menu bar overlapping on small screens in Product Page](./screenshots/menu-bar-overlaps-small-viewports-product-page.png)
 
 
 ---
@@ -58,5 +58,6 @@ The video doesn’t load.
 
 **Attachements:**
 
+![Video fails to load on About Us page](./screenshots/about-us-page-video-fails-to-load.png)
 
 
