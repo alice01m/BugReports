@@ -25,5 +25,5 @@ The menu bar should adjust its layout to fit the screen size properly.
 The menu bar is overlapping or cut off when viewed on smaller devices (mobile/tablet).
 
 **Attachments:**
-![Screenshot for "Menu bar not responsive on product page" bug report](.screenshot/Menu-Bar-Not-Responsive-Bug-Screenshot.png)
+![Menu bar not responsive on product page](./screenshots/Menu-Bar-Not-Responsive-Bug-Screenshot.png)
 
