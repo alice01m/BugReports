@@ -27,7 +27,7 @@ The menu bar overlaps and some parts are cut off or missing on smaller screen si
 
 **Attachments:**
 
-![Menu bar overlapping on small screens in Product Page](./screenshots/menu-bar-overlaps-small-viewports-product-page.png)
+![Menu bar overlapping on small screens in Product Page](./screenshots/about-us-video-fails-to-load.png)
 
 
 ---
