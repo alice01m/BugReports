@@ -20,6 +20,7 @@ On the Product Page, the menu bar fails to display correctly on mobile devices a
 2. Resize the browser window to a mobile or tablet viewport size
 
 **Expected result:**
+
 :white_check_mark: The menu bar should responsively adjust to the screen size, displaying all elements clearly without overlapping.
 
 **Actual result:**
