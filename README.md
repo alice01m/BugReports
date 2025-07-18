@@ -27,7 +27,7 @@ The menu bar overlaps and some parts are cut off or missing on smaller screen si
 
 **Attachments:**
 
-![Menu bar overlapping on small screens in Product Page](./screenshots/about-us-video-fails-to-load.png)
+![Menu bar overlapping on small screens in Product Page](./screenshots/)
 
 
 ---
@@ -58,6 +58,6 @@ The video doesn’t load.
 
 **Attachements:**
 
-![Video fails to load on About Us page](./screenshots/about-us-page-video-fails-to-load.png)
+![Video fails to load on About Us page](./screenshots/about-us-video-fails-to-load.png)
 
 
