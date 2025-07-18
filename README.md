@@ -20,10 +20,10 @@ On the Product Page, the menu bar fails to display correctly on mobile devices a
 2. Resize the browser window to a mobile or tablet viewport size
 
 **Expected result:**
-The menu bar should responsively adjust to the screen size, displaying all elements clearly without overlapping.
+:white_check_mark: The menu bar should responsively adjust to the screen size, displaying all elements clearly without overlapping.
 
 **Actual result:**
-The menu bar overlaps and some parts are cut off or missing on smaller screen sizes (mobile/tablet). 
+:x: The menu bar overlaps and some parts are cut off or missing on smaller screen sizes (mobile/tablet). 
 
 **Attachments:**
 
@@ -48,10 +48,10 @@ On the "About us" page, the video doesn't load. Instead of the video, an error m
 2. Click on “About us”
 
 **Expected result:**
-The video should load and play automatically or be ready for the user to click play.
+:white_check_mark: The video should load and play automatically or be ready for the user to click play.
 
 **Actual result:**
-The following error message is displayed:
+:x: The following error message is displayed:
 *"The media could not be loaded, either because the server or network failed or because the format is not supported."*
 
 The video doesn’t load. 
@@ -83,10 +83,10 @@ There is a spelling mistake in the transaction tab. The word "Withdrawl" is inco
 4. Click on “Login” button
 
 **Expected result:**
-The tab should be labeled “Withdrawal”, which is the correct spelling.
+:white_check_mark: The tab should be labeled “Withdrawal”, which is the correct spelling.
 
 **Actual result:**
-The tab is labeled “Withdrawl”, which is a typo.
+:x: The tab is labeled “Withdrawl”, which is a typo.
 
 **Attachments:**
 
@@ -119,10 +119,10 @@ When clicking the “Date-Time” column in the Transactions section, the data g
 6. Click on the “Date-Time” column header
 
 **Expected result:**
-The table should display an arrow icon to indicate the sort order after clicking the “Date-Time” column header.
+:white_check_mark: The table should display an arrow icon to indicate the sort order after clicking the “Date-Time” column header.
 
 **Actual result:**
-The table sorts the data, but no arrow or any indicator appears to show sorting direction.
+:x: The table sorts the data, but no arrow or any indicator appears to show sorting direction.
 
 **Attachments:**
 
@@ -147,10 +147,10 @@ Clicking the flag icon to switch language redirects the user to the “Info Turi
 2. Click on the flag icon to switch the language
 
 **Expected result:**
-Clicking the flag icon should translate the entire website's content to the selected language, not redirect to a specific section.
+:white_check_mark: Clicking the flag icon should translate the entire website's content to the selected language, not redirect to a specific section.
 
 **Actual result:**
-Clicking the flag icon redirects to the “Info Turism” section without changing the website language.
+:x: Clicking the flag icon redirects to the “Info Turism” section without changing the website language.
 
 
 
